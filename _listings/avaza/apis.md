@@ -10,7 +10,7 @@ description: Avaza is a beautiful online software suite with modules for Project
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg
 x-kinRank: "7"
 x-alexaRank: "193620"
-tags: damage
+tags: Damage
 created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/damage/master/_listings/avaza/apis.md
